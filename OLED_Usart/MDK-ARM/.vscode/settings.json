@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "oled.h": "c",
+        "i2c.h": "c",
+        "font.h": "c",
+        "get_ec11.h": "c",
+        "app.h": "c",
+        "tim.h": "c",
+        "main.h": "c",
+        "stdio.h": "c",
+        "key.h": "c",
+        "debug_usart.h": "c",
+        "string.h": "c",
+        "cmath": "c"
+    }
+}

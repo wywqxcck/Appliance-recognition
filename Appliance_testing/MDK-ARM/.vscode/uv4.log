@@ -1,0 +1,16 @@
+*** Using Compiler 'V5.06 update 5 (build 528)', folder: 'D:\MDK\ARM\ARMCC\Bin'
+Build target 'Appliance_testing'
+Note: source file '..\Core\Src\debug_usart.c' - object file renamed from 'Appliance_testing\debug_usart.o' to 'Appliance_testing\debug_usart_1.o'.After Build - User command #2: ./Keil5_disp_size_bar_v0.3.exe
+[Keil5_disp_size_bar V0.3]: start find map file
+
+[Keil5_disp_size_bar V0.3]: Found:c:\Users\Administrator\Desktop\graduation_project\Appliance_testing\MDK-ARM\Appliance_testing\Appliance_testing.map
+
+[Keil5_disp_size_bar V0.3]: found end
+
+ram:
+   20 KB   ram1:|¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö____________| 41.17 % (    8.23 KB /    20.00 KB) [12048 B]
+flash:
+   64 KB flash1:|¡ö¡ö¡ö¡ö¡ö¡ö¡ö¡ö____________| 42.18 % (   26.99 KB /    64.00 KB) [37896 B]
+
+"Appliance_testing\Appliance_testing.axf" - 0 Error(s), 0 Warning(s).
+Build Time Elapsed:  00:00:00
